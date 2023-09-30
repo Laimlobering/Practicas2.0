@@ -41,7 +41,7 @@ La asignación de tareas se realizará para cada miembro del equipo con un total
 | Tareas | Puntos | División de Puntos |      Total    |
 |----------|----------|----------|----------|
 | Producto    | 5   | <p>**Montero José** – 2 <p>**Aviles Jesús** – 3    |       5   |
-| Requisitos   | 16   | <p>**Martínez Karen** – 4 <p>Aviles Jesús – 8 <p>**Montero José** – 4   |    16      |
+| Requisitos   | 16   | <p>**Martínez Karen** – 4 <p>**Aviles Jesús** – 8 <p>**Montero José** – 4   |    16      |
 | Proceso    | 9   | <p>**Tzab Ary** – 6 <p>**Martínez Karen** – 3    |      9    |
 | Presentación del avance    | 10   | <p>**Rodríguez Mauricio** – 10 <p>**Tzab Ary** – 4 <p>**Domínguez Cesar** – 4    |     18     |
 | Competencias    | 6  | **Domínguez Cesar** – 6    |     6     |
@@ -63,5 +63,42 @@ La asignación de tareas se realizará para cada miembro del equipo con un total
 
 
 ## Cronograma de asisténcias
+
+![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/95056fd34f098ef8f389fd4557d1687e963521e14aea1040.png)
+
+
+
+# Competencias
+
+## Competencias genericas
+
+- **Capacidad de trabajo en equipo**: 
+habilidad de colaborar eficazmente con otros individuos para alcanzar metas comunes o resolver problemas de manera conjunta. 
+
+  
+
+- **Motivación por seguir aprendiendo y formándose**: 
+Motivación de buscar nuevas oportunidades de adquirir conocimiento y habilidades. 
+
+  
+
+- **Comunicación de forma efectiva**: 
+ transmitir ideas, información o sentimientos de manera clara y comprensible, logrando que el mensaje sea entendido por el receptor de manera precisa y sin malentendidos. 
+
+
+## Competencias expecíficas
+
+- **Uso de las tecnologías**:
+Conocimiento y capacidad para la manipulación de tecnologías y programas digitales. 
+
+  
+
+- **Documentación técnica**:
+Documentación de procesos, actividades y códigos de manera explícita y adecuada. 
+
+  
+
+- **Disposición de tiempo**:
+Organización de tiempo para un trabajo constante, manteniendo el proyecto en seguimiento diario. 
 
 
