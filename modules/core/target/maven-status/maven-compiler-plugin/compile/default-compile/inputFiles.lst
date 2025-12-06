@@ -1,0 +1,17 @@
+C:\Users\jessa\Videos\ProyectoFinalArqui\jminiapp\modules\core\src\main\java\com\jminiapp\core\adapters\CSVAdapter.java
+C:\Users\jessa\Videos\ProyectoFinalArqui\jminiapp\modules\core\src\main\java\com\jminiapp\core\adapters\JSONAdapter.java
+C:\Users\jessa\Videos\ProyectoFinalArqui\jminiapp\modules\core\src\main\java\com\jminiapp\core\api\ImportStrategies.java
+C:\Users\jessa\Videos\ProyectoFinalArqui\jminiapp\modules\core\src\main\java\com\jminiapp\core\api\ImportStrategy.java
+C:\Users\jessa\Videos\ProyectoFinalArqui\jminiapp\modules\core\src\main\java\com\jminiapp\core\api\JMiniApp.java
+C:\Users\jessa\Videos\ProyectoFinalArqui\jminiapp\modules\core\src\main\java\com\jminiapp\core\api\JMiniAppConfig.java
+C:\Users\jessa\Videos\ProyectoFinalArqui\jminiapp\modules\core\src\main\java\com\jminiapp\core\api\JMiniAppContext.java
+C:\Users\jessa\Videos\ProyectoFinalArqui\jminiapp\modules\core\src\main\java\com\jminiapp\core\api\JMiniFormatAdapter.java
+C:\Users\jessa\Videos\ProyectoFinalArqui\jminiapp\modules\core\src\main\java\com\jminiapp\core\api\strategies\AppendStrategy.java
+C:\Users\jessa\Videos\ProyectoFinalArqui\jminiapp\modules\core\src\main\java\com\jminiapp\core\api\strategies\MergeByIdStrategy.java
+C:\Users\jessa\Videos\ProyectoFinalArqui\jminiapp\modules\core\src\main\java\com\jminiapp\core\api\strategies\ReplaceStrategy.java
+C:\Users\jessa\Videos\ProyectoFinalArqui\jminiapp\modules\core\src\main\java\com\jminiapp\core\api\strategies\SkipExistingStrategy.java
+C:\Users\jessa\Videos\ProyectoFinalArqui\jminiapp\modules\core\src\main\java\com\jminiapp\core\engine\AppState.java
+C:\Users\jessa\Videos\ProyectoFinalArqui\jminiapp\modules\core\src\main\java\com\jminiapp\core\engine\internal\AdapterRegistry.java
+C:\Users\jessa\Videos\ProyectoFinalArqui\jminiapp\modules\core\src\main\java\com\jminiapp\core\engine\internal\JMiniAppDefaultContext.java
+C:\Users\jessa\Videos\ProyectoFinalArqui\jminiapp\modules\core\src\main\java\com\jminiapp\core\engine\JMiniAppRunner.java
+C:\Users\jessa\Videos\ProyectoFinalArqui\jminiapp\modules\core\src\main\java\com\jminiapp\core\utils\PathResolver.java

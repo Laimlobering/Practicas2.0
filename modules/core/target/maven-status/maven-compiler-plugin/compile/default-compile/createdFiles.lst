@@ -1,0 +1,17 @@
+com\jminiapp\core\api\JMiniAppContext.class
+com\jminiapp\core\engine\AppState.class
+com\jminiapp\core\api\JMiniAppConfig.class
+com\jminiapp\core\utils\PathResolver.class
+com\jminiapp\core\adapters\JSONAdapter.class
+com\jminiapp\core\api\strategies\SkipExistingStrategy.class
+com\jminiapp\core\api\ImportStrategies.class
+com\jminiapp\core\api\JMiniFormatAdapter.class
+com\jminiapp\core\api\strategies\AppendStrategy.class
+com\jminiapp\core\api\strategies\ReplaceStrategy.class
+com\jminiapp\core\engine\JMiniAppRunner.class
+com\jminiapp\core\adapters\CSVAdapter.class
+com\jminiapp\core\engine\internal\JMiniAppDefaultContext.class
+com\jminiapp\core\api\ImportStrategy.class
+com\jminiapp\core\api\JMiniApp.class
+com\jminiapp\core\engine\internal\AdapterRegistry.class
+com\jminiapp\core\api\strategies\MergeByIdStrategy.class
